@@ -145,7 +145,7 @@ main {
             color: $dark-grey;
         }
     }
-    &-tables-section {
+    &-tables {
         display: flex;
         align-items: center;
         padding-bottom: 7.2rem;
@@ -476,7 +476,7 @@ footer {
                     transition: color 300ms;
                 }
                 a:hover {
-                    color: $warm-black;
+                    color: $secondary-blue;
                 }
             }
         }
