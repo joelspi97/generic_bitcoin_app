@@ -1,4 +1,4 @@
-/* VARIABLES COLORES */
+/* COLORS VARIABLES*/
 
 $bitcoin-orange: #F7931A;
 $soft-orange: #FFE9D5;
@@ -12,13 +12,13 @@ $off-white: #FAF8F7;
 $just-white: #fff;
 
 
-/* VARIABLES FUENTES */
+/* FONTS VARIABLES */
 
 $main-font: 'DM Sans', sans-serif;
 $table-font: 'Inter', sans-serif;
 
 
-/* REGLAS GLOABLES */
+/* GLOBAL RULES */
 
 * {
     box-sizing: border-box;
@@ -32,7 +32,7 @@ html {
 }
 
 
-/* CLASES GENERICAS */
+/* GENERIC CLASSES */
 
 .section-heading {
     color: $just-white;
