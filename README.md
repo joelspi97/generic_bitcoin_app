@@ -1,0 +1,1 @@
+# generic_bitcoin_app
